@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://piterfricktweng.github.io/portal-m-aiyouxi-com-cn/sitemap.xml
